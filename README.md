@@ -37,7 +37,7 @@ Android截屏工具库（截取当前应用屏幕图像的工具类），更多�
 - so调用异常分析与解决案例，详见[记一次Android so调用崩溃的解决过程](https://xjmz.feishu.cn/docx/HWwMdNEZkoB1h2xnbYgc9dV2nBh)。
 - 应用性能优化案例，详见[海外版本语音助理相关内存泄露问题处理记录](https://xjmz.feishu.cn/docx/OPjodcLKWoUkwyxZPGDcy3ZTnpc)。
 - 使用Kotlin协程优化代码案例，详见[语音助理多媒体控制垂域代码优化分享](https://xjmz.feishu.cn/docx/UsKHdwUUNoP4UoxQH5JcVVO2nig)。
-
+- 语音重构，详见[语音助理架构演进](https://xjmz.feishu.cn/docx/KAckdGm8bo0x3NxGOxdcmq2Mn8e)。
 #### 3.HarmonyOS开发实例
 
 - HarmonyOS应用开发实践之Node-API实践，详见[link](https://xjmz.feishu.cn/docx/AFLjdEwKQoseImxbIGbcdpPcnPg)。
